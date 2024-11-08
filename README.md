@@ -1,2 +1,2 @@
-- this is a simple c# Phonebook project with mongoDB.
-- user can add, update and delete contacts.
+This is a simple c# Phonebook project with MongoDB.
+User can add, update and delete contacts.
